@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+
+nav{
+    margin-left: 30px;
+    padding-top: 10px;
+    float: right;
+
+   
+}
+
+li{
+    display: inline-block;
+    padding-right: 10px;
+    color: rgb(7, 7, 7);
+    font-size: larger
+
+}
+
+
+.landing-image{
+    width: 500px;
+    height: 400px; 
+    display: inline-block;
+    margin-left: 400px;
+}
+
+.container-1{
+    display: inline-block;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.text{
+    font-size: 20px;
+    padding-right: 40px;
+    font-weight: bold;
+    text-align: right;
+    display: inline-block;
+
+}
+.gmail{
+    height: 30px;
+    width:40px;
+    display: inline-block;
+   
+}
+.Contact{
+    float: right;
+    padding-right: 20px;
+}
